@@ -1,0 +1,21 @@
+{
+    "params":{
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/codingthunder",
+        "prod_uri":"mysql://root:@localhost/codingthunder",
+        "fb_url":"https://facebook.com/codingthunderr",
+        "tw_url":"https://twitter.com/codingthunderr",
+        "gh_url":"https://github.com/codingthunderr",
+        "blog_name":"Coding Thunder",
+        "tag_line":"A Blog liked by Programmers",
+        "gmail-user":"mmalikshahid97@gmail.com",
+        "gmail-password":"shahid97bit",
+        "about_text":"Hi this is my first flask Project. I am currently learning...",
+        "no_of_posts":3,
+        "login_image":"login_image.png",
+        "admin_user":"shahid",
+        "admin_password":"malik123",
+        "upload_location":"D:\\ML Project\\flaskPro\\static\\assets\\img"
+    }
+
+}

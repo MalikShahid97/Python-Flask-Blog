@@ -1,0 +1,25 @@
+--> How to get started with flask
+1. In cmd type the command 'pip install flask'
+
+--> Installing sqlalchemy
+pip install flask-sqlalchemy
+
+--> How to send email through flask
+pip install flask-mail
+
+-->Jinja templating
+href="{{ url_for('static', filename='fileName.ext' )}}"
+
+How to stop server from cmd/powershell 
+taskkill /f /im python.exe
+
+
+////////////////////
+GitHub commands
+1. git init
+2. git remote add origin "ssh...."
+3. git pull origin master 
+4. git add -A
+5. git commit -m "Initial Commit"
+6. git push origin master
+7. 
